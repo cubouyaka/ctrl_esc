@@ -1,0 +1,30 @@
+body {
+	background:url(images/IMG_3253.JPG) no-repeat fixed;
+	height: 800px;
+	width : 1200px;
+	background-size: 100%;
+	bottom:100px;
+	background-size: cover; 
+}
+
+#text {
+	height: 2050px;
+	width: 700px;
+	color:black;
+	//color:#141452;
+	font-family:Courier, monospace;
+	font-size:20px;
+	text-align: justify;
+	margin-left: 25%;
+	margin-top:200px;
+	padding: 20px;
+	border: 1.5px solid black;
+	border-radius: 8px;
+	filter: blur(2px);
+	opacity: .5;
+}
+
+#text:hover {
+	//background-color: red;
+	filter:none;
+}

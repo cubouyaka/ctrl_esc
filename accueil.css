@@ -1,0 +1,17 @@
+body {
+	background-image:url(images/IMG_4152.JPG);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	background-position:50% 10%;
+}
+
+#button-ctrl {
+	margin-top:370px;
+	margin-left: 620px;
+	height: 100px;
+	width: 100px;
+}
+/*
+#button-ctrl:active {
+	background-color: blue;
+}
